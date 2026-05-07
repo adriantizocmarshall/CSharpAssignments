@@ -1,0 +1,7 @@
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\bin\Debug\Console_StringsIntegers.exe.config
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\bin\Debug\Console_StringsIntegers.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\bin\Debug\Console_StringsIntegers.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\obj\Debug\Console_StringsIntegers.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\obj\Debug\Console_StringsIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\obj\Debug\Console_StringsIntegers.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\Console_StringsIntegers\Console_StringsIntegers\obj\Debug\Console_StringsIntegers.pdb

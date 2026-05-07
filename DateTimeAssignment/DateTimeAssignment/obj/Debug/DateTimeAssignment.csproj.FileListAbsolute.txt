@@ -1,0 +1,8 @@
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe.config

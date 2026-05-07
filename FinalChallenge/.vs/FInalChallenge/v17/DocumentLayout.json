@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FInalChallenge.csproj|G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\finalchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FInalChallenge.csproj|solutionrelative:finalchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FinalChallenge.csproj|g:\\onedriveduplicate\\documents\\github\\finalchallenge\\finalchallenge\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FinalChallenge.csproj|g:\\onedriveduplicate\\documents\\github\\finalchallenge\\finalchallenge\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FinalChallenge.csproj|solutionrelative:finalchallenge\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FInalChallenge.csproj|G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\finalchallenge\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B91E94C-BE99-4E9F-B578-82F68A00D47B}|FInalChallenge\\FInalChallenge.csproj|solutionrelative:finalchallenge\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FInalChallenge\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "FInalChallenge\\SchoolContext.cs",
+              "ToolTip": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FInalChallenge\\SchoolContext.cs",
+              "RelativeToolTip": "FInalChallenge\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:07:50.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FInalChallenge\\Grade.cs",
+              "RelativeDocumentMoniker": "FInalChallenge\\Grade.cs",
+              "ToolTip": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FInalChallenge\\Grade.cs",
+              "RelativeToolTip": "FInalChallenge\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:58:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FinalChallenge\\Student.cs",
+              "RelativeDocumentMoniker": "FinalChallenge\\Student.cs",
+              "ToolTip": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FinalChallenge\\Student.cs",
+              "RelativeToolTip": "FinalChallenge\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:55:47.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FInalChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "FInalChallenge\\Program.cs",
+              "ToolTip": "G:\\OneDriveDuplicate\\Documents\\GitHub\\FinalChallenge\\FInalChallenge\\Program.cs",
+              "RelativeToolTip": "FInalChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T17:51:13.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

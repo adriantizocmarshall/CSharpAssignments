@@ -1,0 +1,12 @@
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\FinalChallenge.exe.config
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\FinalChallenge.exe
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\FinalChallenge.pdb
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\EntityFramework.dll
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\EntityFramework.xml
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\obj\Debug\FinalCha.7294F6F5.Up2Date
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\obj\Debug\FinalChallenge.exe
+G:\OneDriveDuplicate\Documents\GitHub\FInalChallenge\FInalChallenge\obj\Debug\FinalChallenge.pdb

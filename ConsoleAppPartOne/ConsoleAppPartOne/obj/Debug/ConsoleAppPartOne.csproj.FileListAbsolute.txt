@@ -1,0 +1,7 @@
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\ConsoleAppPartOne.exe.config
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\ConsoleAppPartOne.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\ConsoleAppPartOne.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\ConsoleAppPartOne.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\ConsoleAppPartOne.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\ConsoleAppPartOne.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\ConsoleAppPartOne.pdb

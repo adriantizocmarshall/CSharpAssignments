@@ -1,0 +1,7 @@
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\bin\Debug\CallingMethodsProject.exe.config
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\bin\Debug\CallingMethodsProject.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\bin\Debug\CallingMethodsProject.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\obj\Debug\CallingMethodsProject.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\obj\Debug\CallingMethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\obj\Debug\CallingMethodsProject.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\CallingMethodsProject\CallingMethodsProject\obj\Debug\CallingMethodsProject.pdb

@@ -1,0 +1,8 @@
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\bin\Debug\BooleanLogicInsurance.exe.config
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\bin\Debug\BooleanLogicInsurance.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\bin\Debug\BooleanLogicInsurance.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.exe
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.pdb
+C:\Users\Adrian\OneDrive\Documents\GitHub\BooleanLogicDemonstration\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.exe.config
